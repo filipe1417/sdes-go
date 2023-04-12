@@ -1,5 +1,5 @@
 # sdes-go
-Simplified DES implementation in GO language
+Implementation of simplified DES in the GO language
 
 ## Usage: 
 ### Ecrypt:
